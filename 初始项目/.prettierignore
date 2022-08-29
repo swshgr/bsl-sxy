@@ -1,0 +1,8 @@
+#忽略文件
+/dist/*
+.local
+.output
+/node_modules/**
+**/*.svg
+**/*.sh
+/public/*
